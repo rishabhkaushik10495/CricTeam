@@ -7,6 +7,7 @@ This project can be utilised by people who bet on online platforms and the compa
 ![image](https://github.com/rishabhkaushik10495/CricTeam/assets/144628141/cc9a14f1-364e-462b-9e91-a25bbe49dde3)
 
 ![image](https://github.com/rishabhkaushik10495/CricTeam/assets/144628141/800d4685-d768-47ad-8cae-b412de583587)
+![image](https://github.com/rishabhkaushik10495/CricTeam/assets/144628141/d4cb4d70-2faa-46b2-81ad-8e28d422cc08)
 
 
 
